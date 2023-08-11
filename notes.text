@@ -1,3 +1,5 @@
+/* Header */
+
 what is css variables?
 what does ":root" this means in CSS?
 How to use rgba() ?
@@ -8,3 +10,8 @@ In ancher tag " <a href='#something'><a/> " will this will take to some other pa
 To make something downloadable from the web page we have to use download attribute.Explain its working?
 What is "overflow:hidden" property of CSS?
 What is "after pseudo element" in CSS?
+
+/* Nav * /
+
+html5 semantic tag?
+To change the active class we are going to use useState.
