@@ -20,3 +20,8 @@ To change the active class we are going to use useState.
 /* ABout */
 
 what is " display:grid "? and how it works?
+
+/* Testimonial */
+what is " user-select : none ;" property in CSS?
+Why we need a "container wrapper" in testimonials component to wrap the whole "testimonials__container" to apply CSS property?
+What is " display : block;" property in CSS?
