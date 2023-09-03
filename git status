@@ -1,0 +1,47 @@
+[33mcommit 88c41a2778c0e4b3e095f5bb736a31a4bbc00e34[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Sambhav <samdkk9852@gmail.com>
+Date:   Sun Aug 13 17:29:18 2023 +0530
+
+    Testimonial component is added with demo data and Swiper-js is install for creating swip tag which hold the testimonials
+
+[33mcommit 1dae206a42eedfded42b86dc8fed86093e1eecb5[m
+Author: Sambhav <samdkk9852@gmail.com>
+Date:   Sun Aug 13 14:34:40 2023 +0530
+
+    Portfolio component added , temporary demo portfolio card is created
+
+[33mcommit c676e37c5d3ee094c7cf8d456081145d0e959a31[m
+Author: Sambhav <samdkk9852@gmail.com>
+Date:   Sat Aug 12 01:34:23 2023 +0530
+
+    Service component id add and completed
+
+[33mcommit 38eedfe232a232d605938d7b875b4108576fdcb8[m
+Author: Sambhav <samdkk9852@gmail.com>
+Date:   Fri Aug 11 22:51:01 2023 +0530
+
+    Experience component Added and myprofile pic is changed, Also correction is made in index.css file
+
+[33mcommit bbba187c281efb623062749da6b996472585f0ef[m
+Author: Sambhav <samdkk9852@gmail.com>
+Date:   Fri Aug 11 19:29:37 2023 +0530
+
+    About component is added and completed
+
+[33mcommit 4c17db8a78c184ad8714da8447da4f4123cda47f[m
+Author: Sambhav <samdkk9852@gmail.com>
+Date:   Fri Aug 11 15:59:12 2023 +0530
+
+    Nav bar is complete, added active class to each component using useState() hook
+
+[33mcommit 4fb39fea205a74d32132ce9c84a3db85ba31b4b7[m
+Author: Sambhav <samdkk9852@gmail.com>
+Date:   Fri Aug 11 06:02:39 2023 +0530
+
+    Completed header component
+
+[33mcommit 1da03e7cb7f9e8d0411d1dc6bd83d0f407425f49[m
+Author: Sambhav <samdkk9852@gmail.com>
+Date:   Fri Aug 11 02:40:52 2023 +0530
+
+    Initialize project using Create React App
