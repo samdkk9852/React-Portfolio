@@ -25,3 +25,11 @@ what is " display:grid "? and how it works?
 what is " user-select : none ;" property in CSS?
 Why we need a "container wrapper" in testimonials component to wrap the whole "testimonials__container" to apply CSS property?
 What is " display : block;" property in CSS?
+
+
+/* Contact */
+To learn about Emailjs and How to implement it.
+
+/* Footer */
+display : inline-block;    HOw it works?
+flex-wrap: wrap;    ??
